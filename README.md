@@ -25,18 +25,18 @@
 ## 📌 Projects
 🚀 **Check out some of my projects:**
 1. **[Electronics E-Commerce App](https://deft-licorice-593b42.netlify.app/)**
-2. **[WILDVINE - Charity Website for Animals](https://github.com/Hirkant/PROJECTS/tree/main/project-2)**
-3. **[Movie Search Website](https://github.com/Hirkant/PROJECTS/tree/main/project-3)**
+2. **[WILDVINE - Charity Website for Animals](https://chic-fairy-b70d36.netlify.app/)**
+3. **[Movie Search Website](https://cheery-frangollo-b798c6.netlify.app/)**
 
 ---
 
 ## 📫 Connect with Me
 <div align="center">
   <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://www.linkedin.com/in/hirakant-mukade-7916632b5/?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://mail.google.com/mail/u/0/#inbox?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
