@@ -24,7 +24,7 @@
 
 ## 📌 Projects
 🚀 **Check out some of my projects:**
-1. **[Electronics E-Commerce App](https://github.com/Hirkant/PROJECTS/tree/main/project-1)**
+1. **[Electronics E-Commerce App](https://deft-licorice-593b42.netlify.app/)**
 2. **[WILDVINE - Charity Website for Animals](https://github.com/Hirkant/PROJECTS/tree/main/project-2)**
 3. **[Movie Search Website](https://github.com/Hirkant/PROJECTS/tree/main/project-3)**
 
@@ -39,3 +39,4 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
+
