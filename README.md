@@ -8,7 +8,7 @@
 </div>
 
 ## 🚀 About Me
-- 🌱 I’m a **Frontend Web Developer**
+- 🌱 I’m a **Full Stack Web Developer**
 - 🔥 Passionate about crafting **modern and interactive UI**
 - 💡 Always learning **new technologies** and improving **problem-solving skills**
 - 🎯 Currently **exploring React and its ecosystem**
